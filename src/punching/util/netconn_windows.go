@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 	"net"
-	"punching/logger"
+	"github.com/harrylee2015/punching/src/punching/logger"
 	"syscall"
 	"time"
 )

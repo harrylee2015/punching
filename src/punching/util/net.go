@@ -3,8 +3,8 @@ package util
 import (
 	"fmt"
 	"net"
-	. "punching/constant"
-	"punching/logger"
+	. "github.com/harrylee2015/punching/src/punching/constant"
+	"github.com/harrylee2015/punching/src/punching/logger"
 	"strings"
 )
 
