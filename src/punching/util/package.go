@@ -3,7 +3,7 @@ package util
 import (
 	"bytes"
 	"errors"
-	. "punching/constant"
+	. "github.com/harrylee2015/punching/src/punching/constant"
 )
 
 // PairPackage P2P端通讯封装包

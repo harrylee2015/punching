@@ -3,7 +3,7 @@ package server
 import (
 	"fmt"
 	"os"
-	"punching/util"
+	"github.com/harrylee2015/punching/src/punching/util"
 )
 
 /*

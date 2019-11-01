@@ -3,7 +3,7 @@ package proxy
 import (
 	"fmt"
 	"os"
-	"punching/util"
+	"github.com/harrylee2015/punching/src/punching/util"
 )
 
 type ProxyConfig struct {

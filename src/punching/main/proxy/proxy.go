@@ -1,6 +1,6 @@
 package main
 
-import "punching/proxy"
+import "github.com/harrylee2015/punching/src/punching/proxy"
 
 func main() {
 	proxy.Main()

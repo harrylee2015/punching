@@ -3,7 +3,7 @@ package util_test
 import (
 	"fmt"
 	"math/rand"
-	"punching/util"
+	"github.com/harrylee2015/punching/src/punching/util"
 	"testing"
 	"time"
 )

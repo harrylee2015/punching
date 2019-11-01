@@ -2,9 +2,9 @@ package client
 
 import (
 	"net"
-	. "punching/constant"
-	"punching/logger"
-	"punching/util"
+	. "github.com/harrylee2015/punching/src/punching/constant"
+	"github.com/harrylee2015/punching/src/punching/logger"
+	"github.com/harrylee2015/punching/src/punching/util"
 	"sync"
 	"time"
 )

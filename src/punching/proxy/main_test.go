@@ -2,15 +2,15 @@ package proxy_test
 
 import (
 	"net"
-	"punching/client"
+	"github.com/harrylee2015/punching/src/punching/client"
 
 	"io"
 	//	"io/ioutil"
 	"net/http"
 	"os"
-	"punching/logger"
-	"punching/proxy"
-	"punching/server"
+	"github.com/harrylee2015/punching/src/punching/logger"
+	"github.com/harrylee2015/punching/src/punching/proxy"
+	"github.com/harrylee2015/punching/src/punching/server"
 	"testing"
 	"time"
 )
